@@ -492,8 +492,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - This is a very precious book. It will help to increase your Java programming skills and teach how to write right code.
         -  The book seems like long, but it was written easy to understand and it covered full concepts of Java. Even after reading it, you could take SCJP exam
 - [ ] **How computers process a program:**
-    - [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
-    - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+    - [X] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
+    - [X] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - nothing to implement
