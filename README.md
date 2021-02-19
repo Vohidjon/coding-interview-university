@@ -485,7 +485,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
             you'll quickly get proficient. Understanding C helps you understand how programs and memory work.
         - [answers to questions](https://github.com/lekkas/c-algorithms)
 
-- [ ] **Learn Java**
+- [X] **Learn Java**
     
     -  Sun Certificated Programmer for Java 6
     -  [ ] [Sun Certificated Programmer for Java 6 book free](http://firozstar.tripod.com/_darksiderg.pdf)
