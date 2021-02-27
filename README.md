@@ -680,7 +680,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [Round Up To Next Power Of Two](http://bits.stephan-brumme.com/roundUpToNextPowerOfTwo.html)
     - [X] swap values:
         - [Swap](http://bits.stephan-brumme.com/swap.html)
-    - [XS] absolute value:
+    - [X] absolute value:
         - [Absolute Integer](http://bits.stephan-brumme.com/absInteger.html)
 
 ## Trees
